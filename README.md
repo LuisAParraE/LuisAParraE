@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me 🔎
+
+- I'm open to participate on an Open Source Project 💻
+- Fan of Game Developing 🎮
+- Can write and speak fluently on English and Spanish
+
+### Tech Abilities 🖥️
+
 
 <!--
 **LuisAParraE/LuisAParraE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
