@@ -5,7 +5,7 @@
 - Can write and speak fluently on English and Spanish
 
 ### Tech Abilities 🖥️
-[![My Skills](https://skillicons.dev/icons?i=c++,c,java,c#,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,docker,git,haxe,haskell,linux,postgres,postman,py,unity,vscode)](https://skillicons.dev)
 <!--
 **LuisAParraE/LuisAParraE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
